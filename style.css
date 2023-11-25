@@ -1,0 +1,28 @@
+<style>
+html {
+  font-size: 22px;
+  font-family: Arial,Helvitica,san-serif;
+  line-height: 1.5;
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 6px;
+border-color:red;
+} 
+p {
+  font-family: bold;
+  font-style: bold;
+  color: indigo;
+}
+body {
+background-color: #90CE45;
+border-color: orange;
+border: 5px solid;
+border-style: dotted;
+}
+</style>
